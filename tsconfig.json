@@ -5,15 +5,15 @@
     "baseUrl": "./",
     "paths": {
       "@src": ["./src/*"],
-      "@assets": ["./assets/*"],
-      "@components": ["./components/*"],
-      "@config": ["./config/*"],
-      "@hooks": ["./hooks/*"],
-      "@routes": ["./routes/*"],
-      "@screens": ["./screens/*"],
-      "@services": ["./services/*"],
-      "@utils": ["./utils/*"],
-      "@styles": ["./styles/*"]
+      "@assets": ["./src/assets/*"],
+      "@components": ["./src/components/*"],
+      "@config": ["./src/config/*"],
+      "@hooks": ["./src/hooks/*"],
+      "@routes": ["./src/routes/*"],
+      "@screens": ["./src/screens/*"],
+      "@services": ["./src/services/*"],
+      "@utils": ["./src/utils/*"],
+      "@styles": ["./src/styles/*"]
     }
   }
 }
